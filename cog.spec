@@ -65,11 +65,4 @@ files for developing applications that use %{name}
 %license COPYING
 
 %changelog
-* Wed Feb 14 2024 Philippe Normand <philn@igalia.com> - 0.18.2-1
-- Bump to 0.18.2
-
-* Sat Jul 22 2023 Philippe Normand <philn@igalia.com> - 0.18.0-1
-- Bump to 0.18.0
-
-* Wed Dec 21 2022 Philippe Normand <philn@igalia.com> - 0.16.1-1
-- Initial RPM package.
+%autochangelog
