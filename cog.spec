@@ -23,6 +23,7 @@ BuildRequires: wayland-protocols-devel
 BuildRequires: gi-docgen
 BuildRequires: meson
 BuildRequires: gcc
+BuildRequires: libmanette-devel
 
 %description
 Cog is a small single “window” launcher for the WebKit WPE port. It is small,
