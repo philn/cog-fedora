@@ -1,5 +1,5 @@
 Name:           cog
-Version:        0.18.4
+Version:        0.18.5
 Release:        1%{?dist}
 Summary:        WPE launcher and webapp container
 
